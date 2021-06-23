@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/giangleee/Desktop/Bài tập GK TRR/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/main.c.o   -c \"/home/giangleee/Desktop/Bài tập GK TRR/main.c\"",
+  "file": "/home/giangleee/Desktop/Bài tập GK TRR/main.c"
+},
+
+{
+  "directory": "/home/giangleee/Desktop/Bài tập GK TRR/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o graph_jrb/CMakeFiles/graph.dir/dllist.c.o   -c \"/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/dllist.c\"",
+  "file": "/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/dllist.c"
+},
+
+{
+  "directory": "/home/giangleee/Desktop/Bài tập GK TRR/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o graph_jrb/CMakeFiles/graph.dir/fields.c.o   -c \"/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/fields.c\"",
+  "file": "/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/fields.c"
+},
+
+{
+  "directory": "/home/giangleee/Desktop/Bài tập GK TRR/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o graph_jrb/CMakeFiles/graph.dir/jval.c.o   -c \"/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/jval.c\"",
+  "file": "/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/jval.c"
+},
+
+{
+  "directory": "/home/giangleee/Desktop/Bài tập GK TRR/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o graph_jrb/CMakeFiles/graph.dir/jrb.c.o   -c \"/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/jrb.c\"",
+  "file": "/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/jrb.c"
+},
+
+{
+  "directory": "/home/giangleee/Desktop/Bài tập GK TRR/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o graph_jrb/CMakeFiles/graph.dir/graph_jrb.c.o   -c \"/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/graph_jrb.c\"",
+  "file": "/home/giangleee/Desktop/Bài tập GK TRR/graph_jrb/graph_jrb.c"
+}
+]

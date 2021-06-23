@@ -1,0 +1,6 @@
+/home/giangleee/Desktop/Bài tập GK TRR/build/CMakeFiles/rebuild_cache.dir
+/home/giangleee/Desktop/Bài tập GK TRR/build/CMakeFiles/edit_cache.dir
+/home/giangleee/Desktop/Bài tập GK TRR/build/CMakeFiles/main.dir
+/home/giangleee/Desktop/Bài tập GK TRR/build/graph_jrb/CMakeFiles/rebuild_cache.dir
+/home/giangleee/Desktop/Bài tập GK TRR/build/graph_jrb/CMakeFiles/edit_cache.dir
+/home/giangleee/Desktop/Bài tập GK TRR/build/graph_jrb/CMakeFiles/graph.dir
